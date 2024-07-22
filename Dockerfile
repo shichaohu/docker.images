@@ -1,2 +1,2 @@
-FROM postgres:15.6
+FROM bitnami/postgresql:15
 MAINTAINER Q
