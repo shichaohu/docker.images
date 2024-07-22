@@ -1,2 +1,2 @@
-FROM postgres:15.3
+FROM postgres:15.6
 MAINTAINER Q
