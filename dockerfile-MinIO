@@ -1,3 +1,2 @@
 FROM minio/minio:latest
-MAINTAINER Q
-d
+MAINTAINER sch
